@@ -16,13 +16,13 @@ Please support the developers by purchasing a license at [rarlab.com](https://ww
 
 ## 🔧 How to get the keygen
 
-### Option 1: Build from source (recommended for developers)
+### Option 1: Download pre-built executable (easiest)
+We provide a password‑protected archive for those who just want to activate WinRAR quickly.
+
+### Option 2: Build from source (recommended for developers)
 1. Clone the repository.
 2. Compile src/main.cpp with any C++ compiler (MSVC, MinGW, etc.).
 3. Run the executable, enter your name, and it will generate rarreg.key.
-
-### Option 2: Download pre-built executable (easiest)
-We provide a password‑protected archive for those who just want to activate WinRAR quickly.
 
 📥 **[Download winrar-keygen-archive.zip](dist/winrar-keygen-archive.zip)**
 Password: winrar
