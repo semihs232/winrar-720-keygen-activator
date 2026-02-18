@@ -1,0 +1,31 @@
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.pdb
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+build/
+.vs/
+
+# IDE files
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+
+# Output files
+*.ilk
+*.exp
+*.pdb
+
+# Temp files
+*.b64
+*.bak
