@@ -24,7 +24,8 @@ Please support the developers by purchasing a license at [rarlab.com](https://ww
 ### Option 2: Download pre-built executable (easiest)
 We provide a password‑protected archive for those who just want to activate WinRAR quickly.
 
-📥 **[Download winrar-keygen-archive.zip](dist/winrar-keygen-archive.zip)**  Password:d:** winrar
+📥 **[Download winrar-keygen-archive.zip](dist/winrar-keygen-archive.zip)**
+Password: winrar
 
 1. Download the archive.
 2. Extract it usWinRARAR**7‑Zipip** (the archive is encrypted, so you need one of these).
@@ -44,4 +45,4 @@ MIT License – feel free to use and modify for educational purposes.
 ---
 
 ## ⭐ Support the project
-If this tool helped you,star the repositorysitory** – it motivates further development!
+If this tool helped you,star the repositorysitory – it motivates further development!
