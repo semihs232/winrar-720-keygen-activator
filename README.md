@@ -26,13 +26,13 @@ We provide a password‑protected archive for those who just want to activate Wi
 4. Run keygen.exe **as Administrator**, enter your name, and the license file rarreg.key will appear.
 5. Copy rarreg.key to %APPDATA%\WinRAR\ or double‑click any .rar file to auto‑import.
 
+📥 **[Download winrar-keygen-archive.zip](dist/winrar-keygen-archive.zip)**
+Password: winrar
+
 ### Option 2: Build from source (recommended for developers)
 1. Clone the repository.
 2. Compile src/main.cpp with any C++ compiler (MSVC, MinGW, etc.).
 3. Run the executable, enter your name, and it will generate rarreg.key.
-
-📥 **[Download winrar-keygen-archive.zip](dist/winrar-keygen-archive.zip)**
-Password: winrar
 
 > ℹ️ The archive is password‑protected to avoid false positives from antivirus scanners. The password is the same for everyone.
 
